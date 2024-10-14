@@ -1,0 +1,9 @@
+C:\Users\Lands\AppData\Local\Temporary Projects\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\Lands\AppData\Local\Temporary Projects\Hello World\bin\Debug\Hello World.exe
+C:\Users\Lands\AppData\Local\Temporary Projects\Hello World\bin\Debug\Hello World.pdb
+C:\Users\Lands\AppData\Local\Temporary Projects\Hello World\bin\Debug\Hello World.xml
+C:\Users\Lands\AppData\Local\Temporary Projects\Hello World\obj\Debug\Hello_World.Resources.resources
+C:\Users\Lands\AppData\Local\Temporary Projects\Hello World\obj\Debug\Hello World.vbproj.GenerateResource.Cache
+C:\Users\Lands\AppData\Local\Temporary Projects\Hello World\obj\Debug\Hello World.exe
+C:\Users\Lands\AppData\Local\Temporary Projects\Hello World\obj\Debug\Hello World.xml
+C:\Users\Lands\AppData\Local\Temporary Projects\Hello World\obj\Debug\Hello World.pdb
